@@ -27,6 +27,8 @@ Benefits include
 - Better donor retention
 - Increased brand awareness
 
+- In Deatail Read This https://simplygiv.com/peer-to-peer-giving/
+
 ---
 
 # Features to Look For
