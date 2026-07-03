@@ -15,7 +15,7 @@ https://simplygiv.com/
 
 # What is Peer-to-Peer Fundraising?
 
-Peer-to-peer fundraising allows supporters to create their own fundraising pages and raise money on behalf of a nonprofit organization.
+Peer-to-peer-fundraising allows supporters to create their own fundraising pages and raise money on behalf of a nonprofit organization.
 
 Instead of relying only on the nonprofit, individual supporters ask friends and family to donate.
 
